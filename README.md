@@ -1,3 +1,3 @@
 # springboot_redis_test1
 一个redis和springboot的聚合测试小demo，测试redis的StringRedisTemplate和RedisTemplate
-- 就利用redis实现数据的存储和获取，适合springboot熟练者入门redis的第一个demo 
+- 利用redis实现数据的存储和获取，适合springboot使用者入门redis的第一个demo 
